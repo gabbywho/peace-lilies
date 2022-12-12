@@ -1,0 +1,11 @@
+<HTML>
+	<HEAD>
+		<TITLE>Basics of HTML demo</TITLE>
+	</HEAD>
+	<BODY>
+		<p>Secret value is <b>9208478</b>.</p>
+		<p>Read more at
+       <a href="http://www.codeabbey.com/index/task_view/basics-of-html">this task</a>.
+    </p>
+	</BODY>
+</HTML>
