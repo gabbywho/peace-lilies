@@ -1,8 +1,1 @@
-<HTML>
-	<HEAD>
-		<TITLE>Static web page</TITLE>
-	</HEAD>
-	<BODY>
-		<p>Secret value is 8202837</p>
-	</BODY>
-</HTML>
+Secret value is 4250529
