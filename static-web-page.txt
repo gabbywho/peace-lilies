@@ -3,6 +3,6 @@
 		<TITLE>Static web page</TITLE>
 	</HEAD>
 	<BODY>
-		<p>Secret value is 5474799</p>
+		<p>Secret value is 4303756</p>
 	</BODY>
 </HTML>
